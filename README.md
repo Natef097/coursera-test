@@ -1,3 +1,4 @@
 # coursera-test
-coursera test repository 
+<u>coursera</u> test repository 
 theme: jekyll-theme-minimal
+remote_theme: cayman 
